@@ -203,7 +203,7 @@ const Footer = () => {
           <p>
             Desenvolvido por{" "}
             <a
-              href="https://github.com/trydavidqix"
+              href="https://github.com/davidqix"
               target="_blank"
               rel="noopener noreferrer"
               className="text-black-400 hover:text-black-200"

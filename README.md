@@ -64,7 +64,7 @@ src/
 ## 💻 Como Rodar
 
 ```bash
-git clone https://github.com/trydavidqix/TurboGainz.git
+git clone https://github.com/davidqix/TurboGainz.git
 cd TurboGainz
 npm install
 npm run dev
@@ -101,6 +101,6 @@ MIT — LICENSE
 
 ## 🔗 Repositório
 
-- [Repositório no GitHub](https://github.com/trydavidqix/TurboGainz)
-- [Meu GitHub](https://github.com/trydavidqix)
+
+- [Meu GitHub](https://github.com/davidqix)
 
